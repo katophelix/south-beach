@@ -306,14 +306,14 @@ font-size: 1em;
                     </div>
                 </div>
                 <a href="../index.html">
-                    <img src="../images/social-logos/DOGBUTTONnewsmall.png" class="img-fluid" style="width:60%; vertical-align: text-bottom;"
+                    <img src="../images/social-logos/logo.jpg" class="img-fluid" style="width:20%; vertical-align: text-bottom;"
                         alt="Instagram Logo.">
                 </a>
             </nav>
             <br>
            <br>
            
-            <img src="../images/NEW HEADERS/DINE.jpg" style="width:100%; height:auto" alt="Banner of Overhead drone shot of salty dog cafe in south beach, with salty dog logo and events written on it.">
+            <img src="../images/new-headers/DINE.jpg" style="width:100%; height:auto" alt="Banner of Overhead drone shot of salty dog cafe in south beach, with salty dog logo and events written on it.">
             <br>
             <br>
 
