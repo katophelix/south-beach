@@ -62,7 +62,19 @@
 
 
 
-        <nav class="navbar fixed-top ">
+    <script>
+        $(document).ready(function () {
+          $("div[data-includeHTML]").each(function () {
+            $(this).load($(this).attr("data-includeHTML"));
+          });
+        });
+      </script>
+    
+    
+    
+      <header>
+        <div data-includeHTML="../headers/head.html"></div>
+      </header>    <nav class="navbar fixed-top ">
                 <a style="color: rgb(4, 4, 51) !important;" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
                         <i class="fas fa-bars"></i> 
                 </a>
